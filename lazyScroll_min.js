@@ -1,6 +1,6 @@
 /*!
  * lazyScroll.js v1.0.0
- * Copyright(c)2020 Wakana Kawauchi
+ * Copyright(c)2020 happy358
  * Site:https://labs.manohara.info/lazyscroll/
  * Released under the MIT license.
  * see https://opensource.org/licenses/MIT

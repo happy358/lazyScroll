@@ -1,5 +1,5 @@
 # lazyScroll.js
-Smooth Scroll To Top and Bottom.<br/>
+Smooth Scroll to Top and Bottom.<br/>
 Simple and Easy to use.<br/>
 Pure JavaScript Library.
 # License

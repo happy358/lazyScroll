@@ -3,7 +3,7 @@
  * Copyright(c)2020 happy358
  * Site:https://labs.manohara.info/lazyscroll/
  * Released under the MIT license.
- * see https://opensource.org/licenses/MIT
+ * see https://github.com/happy358/lazyScroll/blob/master/LICENSE
  */
 (function () {
   var t = document.querySelector("#script_lazyscroll");

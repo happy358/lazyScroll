@@ -1,5 +1,5 @@
 # lazyScroll
-Smooth Scroll To Top and Bottom.
+Smooth Scroll To Top and Bottom.<br/>
 Simple, Fully Automatic.
 Pure JavaScript Library.
 # License

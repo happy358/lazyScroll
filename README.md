@@ -1,4 +1,7 @@
 # lazyScroll
+Smooth Scroll To Top and Bottom.
+Simple, Fully Automatic.
+Pure JavaScript Library.
 # License
 The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
 # Demo

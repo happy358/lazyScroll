@@ -7,6 +7,7 @@ The source code is licensed MIT.
 # Demo
 https://labs.manohara.info/lazyscroll/
 # Usage
+https://labs.manohara.info/lazyscroll/
 ## Basic Usage
 ```
 <script defer src='path/to/lazyScroll.js' id="script_lazyscroll"></script>
@@ -24,8 +25,6 @@ data-border: Icon border color,String (default: black)
 data-bordersize: Icon border width,Numeric (default(px): 10)
 data-size: Icon size,Numeric (default(px): 33)
 ```
-
-https://labs.manohara.info/lazyscroll/
 
 # Polyfill
 ## Scroll-Behavior-polyfill Library : for Safari and Edge
